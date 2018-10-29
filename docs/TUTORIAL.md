@@ -1,18 +1,6 @@
-![Trinity Name Service](./assets/title.jpg)
+# Tutorial
 
-> 📖🔍 Documents of the Trinity Name Service.
-
-# Overview
-
-## 📚 Documents
-
-#### Table of Contents
-- [Introduction](./docs/INTRODUCTION.md)
-- [Tutorial](./docs/TUTORIAL.md)
-
-# Introduction
-
-## Install Trinity
+## Install
 
 #### Clone source code
 ```
@@ -61,13 +49,3 @@ channel depoist_limit
 ```
 
 ![commands](../assets/commands.png)
-
-
-## 🔗 Links
-- [Official Website](https://trinity.tech/)
-
-## 📣 Contributing
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to help out.
-
-## 🗒 Licence
-See [LICENSE](./LICENSE) for details.
