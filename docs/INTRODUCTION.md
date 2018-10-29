@@ -11,7 +11,7 @@ Top-level domains, like `.tnc` are owned by smart contracts called registrars, w
 ## Why we need TNS?
 Blockchain addresses are not friendly enough to humans, the hash addresses are too long, hard to remember, and not easy to identify which is correct or incorrect.  
 
-The blockchain now becomes more and more popular, the shortcomings of address transfer will become more and more obvious. Just as we are sending emails today, it is difficult to use a 32-bit string as an email account. Therefore, an alias service is very helpful for the ease of use of the blockchain system. For example, IPFS has an alias service called InterPlanetary Name Service (ITNS), and Ethereum has its own domain name service called Ethereum Name Service (ENS). We do think that Trinity system should also have its own alias service.
+The blockchain now becomes more and more popular, the shortcomings of address transfer will become more and more obvious. Just as we are sending emails today, it is difficult to use a 32-bit string as an email account. Therefore, an alias service is very helpful for the ease of use of the blockchain system. For example, IPFS has an alias service called InterPlanetary Name Service (IPNS), and Ethereum has its own domain name service called Ethereum Name Service (ENS). We do think that Trinity system should also have its own alias service.
 
 ## The Expandability of TNS
 What kind of resource an alias should point to is flexible and can be implemented just by implementing the corresponding TNS resolvers. In addition to pointing to an address, it can also point to a contract address, thus enabling interaction through TNS and smart contracts.
