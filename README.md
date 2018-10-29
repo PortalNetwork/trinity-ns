@@ -4,6 +4,10 @@
 
 # Overview
 
+## 💡 What is Trinity?
+Trinity is a state channel that is an offchain scaling scheme for NEO, and it applicable to NEP-5 standard tokens and NEO UTXO assets. It is a NEO version lighting network.
+State channels can be seen as exclusive trade channels to participants, complicated processing data will be offchain, only the final balance will be settled on NEO mainnet.
+
 ## 📚 Documents
 
 #### Table of Contents
