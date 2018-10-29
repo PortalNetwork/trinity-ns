@@ -14,6 +14,11 @@ State channels can be seen as exclusive trade channels to participants, complica
 - [Introduction](./docs/INTRODUCTION.md)
 - [Tutorial](./docs/TUTORIAL.md)
 
+## 📝 Trinity in Web3.0
+Trinity plays an connecting and entry layer in Web3.0 services. It connects with Trinity wallet, state channels and decentralized resources.
+
+![web3](./assets/web3.png)
+
 # Introduction
 
 ## Install Trinity
