@@ -36,20 +36,20 @@ There are many smart contracts patterns and standards have come out from the blo
 ![Component Layer](./assets/stacks/component.jpg)
 
 ### Scalability / Transfer Layer
-It can be distinguished of how to achieve increasing the transactions processing capacity into two persepetives, one is on-chain, and the other one is off-chain. The state channel is one of the offline scaling solution, the main process is to first open a channel between two addresses, to let both parties can send transactions frequently, and after finishing the deal, the result of transactions will be sent to the main network.
+It can be distinguished of how to achieve increasing the transactions processing capacity into two perspectives, one is on-chain, and the other one is off-chain. The state channel is one of the offline scaling solutions, the main process is to first open a channel between two addresses, to let both parties can send transactions frequently, and after finishing the deal, the result of transactions will be sent to the main network.
 ![Scalability Layer](./assets/stacks/scalability.jpg)
 
 ### Protocol Layer
-Trinity Name Service contains three main logic components, which are registrar, reigstry, and resolver components. BNS protocol provides the standard interfaces and modularize each of the responsibility for each component. Registrar componenet is in charge of dealing with the process of aquring ownership for a specific Trinity domain. Registry componenet stores the ownership for the domain, sub-domain, and so forth. Resolver component establish setting and getting the mapping resources for the domain.
+Trinity Name Service contains three main logic components, which are the registrar, registry, and resolver components. BNS protocol provides the standard interfaces and modularizes each of the responsibility for each component. Registrar component is in charge of dealing with the process of acquiring ownership for a specific Trinity domain. Registry componenet stores the ownership for the domain, sub-domain, and so forth. Resolver component establishes setting and getting the mapping resources for the domain.
 ![Protocol Layer](./assets/stacks/protocol.jpg)
 
 ### User Control Layer
-The user control layer plays an crucial role for blockchain technology adoption. If there are no GUI wallet to manage private keys and operations on-chain for average users, the users have to operate the related transactions and manage all stuffs with command line tools, therefore, the better user experience in this layer, the more users will participate in the ecosystem.
+The user control layer plays a crucial role in blockchain technology adoption. If there is no GUI wallet to manage private keys and operations on-chain for average users, the users have to operate the related transactions and manage all kinds of stuff with command line tools, therefore, the better user experience in this layer, the more users will participate in the ecosystem.
 ![User Control Layer 1](./assets/stacks/user_control_1.jpg)
 ![User Control Layer 2](./assets/stacks/user_control_2.jpg)
 
 ### Application Layer
-The application layer is full of various services and is built upon on the user control layer, therefore, Trinity Name Service can reduce the complexity and enhance the user experience in on-chain operations. Such as. Trinity domains play an important role whenever users or developers want to send/receive tokens, sign and send transactions to contract, and view the decentraized content reosrouces and many more.
+The application layer is full of various services and is built upon on the user control layer, therefore, Trinity Name Service can reduce the complexity and enhance the user experience in on-chain operations. Such as. Trinity domains play an important role whenever users or developers want to send/receive tokens, sign and send transactions to contract and view the decentralized content resources and many more.
 ![Application Layer](./assets/stacks/application.jpg)
 
 # Introduction
