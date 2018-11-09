@@ -1,10 +1,10 @@
 # Trinity Tutorial
 
-##How to start Trinity from Zero
+## How to start Trinity from Zero
 
 
 
-###Build Up Envirment
+### Build Up Envirment
 
 First step is to clone the trinity project from github:
 
